@@ -17,9 +17,7 @@ GitHub nutze ich, um meine Projekte zu dokumentieren.
 
 ---
 
-## 📊 Mein GitHub Ranking & Stats  
-
-![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berkayy19&show_icons=true&theme=radical)  
+## 📊 Meine Benutzen Sprachen
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayy19&layout=compact&theme=radical)  
 
