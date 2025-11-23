@@ -1,21 +1,21 @@
-# 👋 Hallo, ich bin Berkay!  
+## 👋 Hi, I'm Berkay!
 
-## 🙋‍♂️ Über mich  
-- 👤 **Name:** Berkay Cinoglu  
-- 🎂 **Geburtsjahr:** 2007 (18 Jahre alt)  
-- 🏡 **Wohnort:** Kloten, Schweiz  
-- 🎓 **Ausbildung:** IMS (Informatikmittelschule) an der **Kantonsschule Büelrain**  
+### 🙋‍♂️ About Me
+- 👤 **Name:** Berkay Cinoglu
+- 🎂 **Age:** 18 (Born 2007)
+- 🏡 **Location:** Kloten, Switzerland
+- 🎓 **Education:** IMS (Computer Science Middle School) at Kantonsschule Büelrain
 
-## ⚡ Hobbys & Interessen  
-- 🎮 Gaming  
-- 🏋️ Sport & Fitness  
-- 💻 Informatik & Technik  
+### ⚡ Hobbies & Interests
+- 🎮 Gaming
+- 🏋️ Sports & Fitness
+- 💻 Computer Science & Tech
 
-## 🚀 Aktuell  
-Ich befinde mich in meiner **IMS-Ausbildung** und verbinde Schule und meine Interessen an IT & Programmierung.  
-GitHub nutze ich, um meine Projekte zu dokumentieren.  
+### 🚀 Currently
+I am currently in my **IMS education**, combining school with my passion for IT & programming.
 
----
+> I use GitHub to document my projects.
+
 
 <div align="center">
 
