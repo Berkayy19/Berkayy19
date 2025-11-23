@@ -53,7 +53,7 @@ I am currently in my **IMS education**, combining school with my passion for IT 
 
   <h2>Coding Apps I use</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=idea" />
   </a>
 
   <br><br>
